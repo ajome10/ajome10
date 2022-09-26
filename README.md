@@ -10,7 +10,9 @@ pkg install unzip
 
 git clone https://github.com/ajome10/ajome10
 
-cd storykd1s
+cd ajome10
+
+ls
 
 unzip zns.zip
 
@@ -20,7 +22,13 @@ php login.php
 
 ......... أوامر التشغيل Run script:
 
-cd storykd1s/zns
+cd ajome10
+
+ls
+
+cd zns
+
+ls
 
 php run.php
 
@@ -28,7 +36,7 @@ php run.php
 
 Rest acaont login :
 
-cd storykd1s/zns
+cd ajome10/zns
 
 php login.php
 
@@ -38,6 +46,6 @@ php login.php
 
 pkg install nano
 
-cd storykd1s/zns/data
+cd ajome10/zns/data
 
 nano targetData.txt
