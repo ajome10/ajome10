@@ -8,7 +8,7 @@ pkg install git
 
 pkg install unzip
 
-git clone https://github.com/xznsx/storykd1s
+git clone https://github.com/ajome10/ajome10
 
 cd storykd1s
 
